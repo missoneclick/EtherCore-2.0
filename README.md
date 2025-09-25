@@ -1,4 +1,4 @@
-# EthereumCore 2.0
+# EtherCore 2.0
 ###### We won't be providing support
 Credits for the original core: https://github.com/254nm/L2X9RebootCore
 
